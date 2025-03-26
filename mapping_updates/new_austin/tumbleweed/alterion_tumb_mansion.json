@@ -1,1 +1,8 @@
-{  "version": "1.0", "changelog": "test test test"}
+{  
+"currentversion": "1.1", 
+"currentchangelog": "fix texture and timecycle",
+
+"version": "1.0", 
+"changelog": "the first version"
+
+}
