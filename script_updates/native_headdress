@@ -1,11 +1,9 @@
 {  
 "currentversion": "1.2", 
-"currentchangelog": "changed Hd* to hd* to ensure compatibility with all core",
-
+"currentchangelog": "changed Hd to hd to ensure compatibility with all core",
+}
 "version": "1.1", 
 "changelog": "fix texture on headdress 12"
 
 "version": "1.0", 
 "changelog": "the first version"
-
-}
