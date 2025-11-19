@@ -1,6 +1,10 @@
 {  
-"currentversion": "1.2", 
-"currentchangelog": "changed Hd to hd to ensure compatibility with all core",
+"currentversion": "1.3", 
+"currentchangelog": "alterion libs integration and wearable system",
+
+"version": "1.2", 
+"changelog": "changed Hd to hd to ensure compatibility with all core",
+
 
 "version": "1.0", 
 "changelog": "the first version"
