@@ -1,6 +1,9 @@
 {  
-"currentversion": "1.1", 
-"currentchangelog": "Change load distance from 60 to 30 for optimization",
+"currentversion": "1.2", 
+"currentchangelog": "Added Alterion Libs dependency and game manager menu",
+
+"version": "1.1", 
+"changelog": "Change load distance from 60 to 30 for optimization",
 
 "version": "1.0", 
 "changelog": "the first version"
