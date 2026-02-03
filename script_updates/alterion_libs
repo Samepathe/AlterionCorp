@@ -1,6 +1,10 @@
 {  
-"currentversion": "1.4", 
-"currentchangelog": "initial support for milo manager, fix rsg group detection, print translated in english",
+"currentversion": "1.5", 
+"currentchangelog": "final support for milo manager, fix wearable script issue due to last RedM update, fix player drop not destroying wearable props",
+
+"version": "1.4", 
+"changelog": "initial support for milo manager, fix rsg group detection, print translated in english",
+
 
 "version": "1.3", 
 "changelog": "added game manager and milo manager utis",
